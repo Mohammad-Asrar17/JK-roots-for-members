@@ -1,0 +1,18 @@
+I’m preparing for a hackathon presentation. Please help me practise answering judges’ questions about our project, JK Roots.
+
+PROJECT
+JK Roots is a Flutter and Dart Android app prototype for discovering cultural products from Jammu and Kashmir. It has 15 products grouped into Kashmiri, Dogra, Gujjar and Pahadi culture filters. Its key difference is that shoppers can browse products by culture instead of seeing one mixed list.
+
+Selected products have 3D models and an in-app AR camera. The app uses local product images and GLB model files. AR depends on an Android phone that supports ARCore.
+
+The app also demonstrates an artisan application process. Applicants choose an art type, such as Namda, Fardi, Aari, Papier-mâché or Tilla, go through a sample-piece flow, and select a file to submit as their work.
+
+IMPORTANT: This is a prototype. Checkout and payment are demonstrations. PAN verification, artisan application submission and company review are not connected to real services. Do not describe them as live features.
+
+Please coach me for judging:
+- Ask likely questions about originality, problem-solving, Flutter basics, ARCore and device support, technical feasibility, practical implementation, and our future plans.
+- Conduct a mock interview by asking one question at a time and waiting for my answer.
+- After I answer, tell me what was clear or missing, then suggest a truthful answer in simple language that I can say in about 20–30 seconds.
+- Ask follow-up questions like a judge might.
+- Keep working features separate from planned features. Do not invent capabilities or claim that I personally built something unless I tell you I did.
+- First ask me what part of the project I worked on, so you can help me explain my own contribution honestly.
